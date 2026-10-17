@@ -209,4 +209,4 @@ Wikipedia is offered as a full free version with all features and updates includ
 Don't miss out on the world's knowledge—**download the official Wikipedia app for Windows today!**
 
 ---
-**Last updated:** 2026-10-17 19:15:18 UTC
+**Last updated:** 2026-10-17 22:10:02 UTC
